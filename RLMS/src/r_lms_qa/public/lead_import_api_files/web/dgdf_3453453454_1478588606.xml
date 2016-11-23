@@ -1,0 +1,40 @@
+<appointment>
+				<apptid>RS </apptid>
+				<lmsid>-9</lmsid>
+				<createddt>11/08/2016 08:03:25 AM</createddt>
+				<modifieddt>11/08/2016 08:03:25 AM</modifieddt> 
+				<refacingtype>K</refacingtype>
+				<zipcode>30123</zipcode>
+				<apptdate>11/11/2016</apptdate>
+				<appttime>3:00 PM</appttime>
+				<firstname>dgdf</firstname>
+				<lastname>gdfgdfg</lastname>
+				<coowner/>
+				<streetaddress>dfgdfg</streetaddress>
+				<addressline2/>
+				<crossstreet/>
+				<city>Cassville</city>
+				<state>GA</state>
+				<phoneno>3453453454</phoneno>
+				<secondaryno/> 
+				<thirdno/>
+				<email>christusajin@hotmail.com</email>
+				<comments>dgdgdfg</comments>
+				<sc_assoc/>
+				<sc_ver/>
+				<associateid>3453453</associateid>
+				<storeno>4353</storeno>
+				<usr_isp/>
+				<prospectid>RS 0716O</prospectid>
+				<callbackno></callbackno>
+				<reference>Store Associate - Siebel</reference>
+				<source>web</source>
+				<telerepid/>
+				<dwelling/>
+				<community_name/>
+				<house_color/>
+				<result>ST</result>
+				<specialoffers>False</specialoffers>
+				<RefStore>4608</RefStore>
+				<company_id>4</company_id>
+				</appointment>
